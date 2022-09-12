@@ -5,7 +5,9 @@ export class Home extends Component {
 
   render () {
     return (
-      <div>
+        <div>
+
+            <h1 style="color: red;"><strong>I love it when you call me Senorita!!</strong></h1>
         <h1>Hello, world!</h1>
         <p>Welcome to your new single-page application, built with:</p>
         <ul>
